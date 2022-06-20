@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Human
+comment0.text=\r\n\ A\ class\ to\ explain\ classes\ and\ instances\ and\ how\ a\ Java\ program\ looks\ like.\r\n\r\n\ @author\ Ingo\ Frommholz\r\n\ @version\ March\ 2020\r\n
+comment1.params=personName
+comment1.target=void\ setName(java.lang.String)
+comment1.text=\r\n\ Set\ the\ name\ of\ the\ human\ being.\r\n\ \r\n\ @param\ personName\ the\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Get\ the\ name\ of\ the\ human\ being.\r\n\ \r\n\ @return\ the\ name\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ The\ main\ method.\r\n
+numComments=4

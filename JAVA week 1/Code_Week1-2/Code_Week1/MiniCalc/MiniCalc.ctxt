@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MiniCalc()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=int1\ int2
+comment1.target=int\ add(int,\ int)
+comment1.text=\r\n\ Add\ two\ values\r\n
+comment2.params=int1\ int2
+comment2.target=int\ multiply(int,\ int)
+comment2.text=\r\n\ Multiply\ two\ values\r\n
+comment3.params=str
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ The\ main\ method\r\n
+numComments=4
